@@ -28,6 +28,8 @@ function App({ characterStore }) {
             <thead>
               <tr>
                 <th></th>
+                <th></th>
+                <th></th>
                 <th>Alignment Merit</th>
                 <th>20 Merits</th>
                 <th>Astral Merit</th>
