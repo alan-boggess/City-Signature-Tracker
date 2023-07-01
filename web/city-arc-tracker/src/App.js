@@ -83,7 +83,7 @@ function App({ characterStore }) {
                       ? rogue : hero;
                     setCharacters([...characters]);
                   }}/></td>
-                  <td>{c.name}</td>
+                  <td class="hero-name">{c.name}</td>
                   <td>{LockoutTime(c, c.morality, moralityMerit)}</td>
                   <td>{LockoutTime(c, c.merits, rewardMerits)}</td>
                   <td>{LockoutTime(c, c.astral, astralMerit)}</td>
