@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CitySSASTracker/static/css/main.b682992b.css",
+    "main.js": "/CitySSASTracker/static/js/main.d9e65709.js",
+    "static/js/453.2397b9a4.chunk.js": "/CitySSASTracker/static/js/453.2397b9a4.chunk.js",
+    "static/media/REDCIRCL.ttf": "/CitySSASTracker/static/media/REDCIRCL.79bf45ecdfb71fd9da34.ttf",
+    "index.html": "/CitySSASTracker/index.html",
+    "main.b682992b.css.map": "/CitySSASTracker/static/css/main.b682992b.css.map",
+    "main.d9e65709.js.map": "/CitySSASTracker/static/js/main.d9e65709.js.map",
+    "453.2397b9a4.chunk.js.map": "/CitySSASTracker/static/js/453.2397b9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b682992b.css",
+    "static/js/main.d9e65709.js"
+  ]
+}
